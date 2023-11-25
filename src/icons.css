@@ -1,0 +1,7 @@
+.tictactoe-board {
+    --bg: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxwYXRoIGZpbGw9IiM4ODg4ODgiIGQ9Ik0yOCAxMnYtMmgtNlY0aC0ydjZoLThWNGgtMnY2SDR2Mmg2djhINHYyaDZ2Nmgydi02aDh2Nmgydi02aDZ2LTJoLTZ2LThabS04IDhoLTh2LThoOFoiLz48L3N2Zz4=);
+}
+
+.tictactoe-title {
+    --bg: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 92 32"%3E%3Cg transform="translate(-71 -66)"%3E%3Ctext xml:space="preserve" fill="%23aec8f1" stroke-width=".3" font-family="Vanilla Extract" font-size="14.1" font-weight="400" style="line-height:0;-inkscape-font-specification:&quot;Vanilla Extract&quot;"%3E%3CtextPath xlink:href="%23a"%3E%3Ctspan fill="%23000" font-weight="700"%3ETic-Tac-Toe%3C/tspan%3E%3C/textPath%3E%3C/text%3E%3Cpath id="a" fill="none" stroke-width=".4" d="m81 98 3-5 5-5 2-2 8-5c3-2 6-2 10-3h11l4 1 3 1 4 1 6 3 7 3 3 1 9 2h8l3-1 1-1 4-3 3-4 1-1a41 41 0 0 0 4-6l-4-4-1 2-2 4a28 28 0 0 1-9 8l-4 2h-7l-9-2-10-4-6-2-4-2h-2l-5-1-9-1-5 1-7 2-3 2-6 3-2 2-4 5-1 1-3 4z"/%3E%3C/g%3E%3C/svg%3E');
+}
