@@ -98,7 +98,11 @@
     <div class="stack stack-center">
         <div class="board">
             {#each board as value, index (index)}
-                <button class="cell" on:click={() => handleClick(index)}>
+                <button
+                    aria-label="tictactoe grid {index}"
+                    class="cell"
+                    on:click={() => handleClick(index)}
+                >
                     {#if value !== null}
                         {value}
                     {/if}
